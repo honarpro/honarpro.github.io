@@ -546,7 +546,7 @@
     
     .blob {
         position: absolute;
-        right: -15%;
+        right: 0%;
         top: 0;
         background-color: var(--color-light-purple);
         width: 600px;
